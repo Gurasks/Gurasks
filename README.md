@@ -4,7 +4,6 @@
 ## I'm a developer
 
 - 🌱 I’m currently learning everything
-- 🥅 2022 Goals: Create more projects on GitHub
 - 🐶 Fun fact: I love to lift weights and pet dogs
 - 🧐 I love to learn new technologies
 
