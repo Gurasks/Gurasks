@@ -1,43 +1,68 @@
-# Hi there, I'm Yago - aka Gurasks 😎
+<!-- GitHub Profile README (Improved for Job Applications) -->
 
+# Hello, I'm Yago Vaz (Gurasks)
 
-## I'm a developer
+**Senior Frontend / Full-Stack Developer** focused on building scalable, high-quality web applications with great user experience.
 
-- 🌱 I’m currently learning everything
-- 🐶 Fun fact: I love to lift weights and pet dogs
-- 🧐 I love to learn new technologies
+* 🔭 Currently working with **React, TypeScript, and Python**
+* 🌱 Always learning and exploring new technologies
+* 💪 Passionate about clean architecture, performance, and UX
+* 🐶 Fun fact: I enjoy video games and dogs
 
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="csharp" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
-<img align="left" alt="java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="php" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="illustrator" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" style="padding-right:10px;" />
-
-<br />
-<br />
-
-### Connect with me:
-
-[<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://linkedin.com/in/yago-vaz-dev)
-&nbsp;&nbsp;
 ---
 
-<details>
-  <summary>👻 GitHub Stats</summary>
+## 🚀 Featured Project
 
-  <img align="left" alt="Gurasks' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Gurasks&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+👉 **Latest Personal Project:**
+**Gamification — Gamified Requirements Elicitation System (Singular)**
+*A collaborative platform that uses gamification to improve requirements elicitation sessions.*
 
-</details>
+🔗 **Repository:** `<[Gamification](https://github.com/Gurasks/Gamification)>`
+🌐 **Live Demo:** `<[Gamification](https://gamification-7b62e.web.app/)>`
 
-[linkedin]: https://linkedin.com/in/yago-vaz-dev
+**Key highlights:**
+
+* Real-time collaboration with Firebase
+* Gamification system (points, leaderboard, teams)
+* Advanced filtering and dashboards
+* Modern stack with React + TypeScript + Tailwind
+
+---
+
+## 🧠 Tech Stack
+
+**Frontend**
+
+* React
+* TypeScript
+* Angular
+* JavaScript
+* HTML5 / CSS3 / Sass
+* TailwindCSS
+
+**Backend & Database**
+
+* Python
+* Java
+* Node.js
+* MySQL
+* Firebase / Firestore
+
+**Tools & Others**
+
+* Git & GitHub
+* CI/CD
+* Visual Studio Code
+* Cursor
+  
+---
+
+## 🤝 Connect with me
+
+[<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://linkedin.com/in/yago-vaz-dev)
+
+<br />
+
+---
+
+⭐ **Open to remote opportunities and challenging projects.**
