@@ -17,8 +17,8 @@
 **Gamification — Gamified Requirements Elicitation System (Singular)**
 *A collaborative platform that uses gamification to improve requirements elicitation sessions.*
 
-🔗 **Repository:** `<[Gamification](https://github.com/Gurasks/Gamification)>`
-🌐 **Live Demo:** `<[Gamification](https://gamification-7b62e.web.app/)>`
+🔗 **Repository:** [Gamification](https://github.com/Gurasks/Gamification)
+🌐 **Live Demo:** [Gamification](https://gamification-7b62e.web.app/)
 
 **Key highlights:**
 
